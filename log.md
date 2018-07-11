@@ -1,30 +1,12 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+I didn't think to fork this repo until today (Day 14), so you will see that this journal starts on that day. I started June 27, 2018 and missed Day 2.
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+### Day 14: July 11, 2018
+##### Working on Project 3 in the Front End Nanodegree course offered by Udacity through a Grow with Google scholarship
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Today's Progress**: Last night I started working on it, I wrote the Player class with methods for moving, but not leaving the canvas. Today, I perfected the player's movements so that when the player wins, the hero can be seen in the top row of blocks on the canvas before the alert box pops up to tell the user they won the game. The hero's position is only reset once the player clicks 'ok' on the alert box.
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Thoughts:** I learned about how to use `window.confirm('string')`, which was fun, but it took some time to find this solution.
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
-
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Link to work:** [Mock Arcade Game](https://seleah.github.io/frontend-nanodegree-arcade-game/)
