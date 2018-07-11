@@ -10,3 +10,5 @@ I didn't think to fork this repo until today (Day 14), so you will see that this
 **Thoughts:** I learned about how to use `window.confirm('string')`, which was fun, but it took some time to find this solution.
 
 **Link to work:** [Mock Arcade Game](https://seleah.github.io/frontend-nanodegree-arcade-game/)
+
+**Update** I finished the project and submitted it for the first time. I don't expect it to pass this time, but I will complete some other coursework until I hear back from my reviewer. Woo!
