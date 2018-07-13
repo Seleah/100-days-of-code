@@ -12,3 +12,10 @@ I didn't think to fork this repo until today (Day 14), so you will see that this
 **Link to work:** [Mock Arcade Game](https://seleah.github.io/frontend-nanodegree-arcade-game/)
 
 **Update** I finished the project and submitted it for the first time. I don't expect it to pass this time, but I will complete some other coursework until I hear back from my reviewer. Woo!
+
+### Day 15: July 12, 2018
+##### Project 3 passed on the first submission!
+
+**Today's Progress**: Suprisingly, my project passed on the first submission (which only rarely happens) so I'm going through lessons for today.
+
+**Thoughts:** I'm not sure what to do about my laptop... These lessons involve setting up your environment with Sublime and Gulp, but I have a chromebook... We'll see.
