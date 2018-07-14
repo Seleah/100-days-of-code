@@ -19,3 +19,12 @@ I didn't think to fork this repo until today (Day 14), so you will see that this
 **Today's Progress**: Suprisingly, my project passed on the first submission (which only rarely happens) so I'm going through lessons for today.
 
 **Thoughts:** I'm not sure what to do about my laptop... These lessons involve setting up your environment with Sublime and Gulp, but I have a chromebook... We'll see.
+
+### Day 16: July 13, 2018
+##### Lots of coursework.
+
+**Today's Progress**: Just starting for today, so no progress to note atm, just making sure I don't forget to log my day. I will add an update later.
+
+**Thoughts:** So it looks like I'm going to need Crouton. *sigh* Here goes. I'm nervous I'll break my laptop. Pray for me! lol It doesn't seem like it's difficult at all, it's just not something I've done before and so the lack of experience makes me nervous.
+
+Another thought. I noticed Github doesn't count contributions to my forked repos. This makes me sad. No big deal though. It just means that if I want my contributions counted, I'll need to do commit on repos that are not forked.
