@@ -28,3 +28,27 @@ I didn't think to fork this repo until today (Day 14), so you will see that this
 **Thoughts:** So it looks like I'm going to need Crouton. *sigh* Here goes. I'm nervous I'll break my laptop. Pray for me! lol It doesn't seem like it's difficult at all, it's just not something I've done before and so the lack of experience makes me nervous.
 
 Another thought. I noticed Github doesn't count contributions to my forked repos. This makes me sad. No big deal though. It just means that if I want my contributions counted, I'll need to do commit on repos that are not forked.
+
+### Day 17: July 14, 2018
+##### More coursework.
+
+**Today's Progress**: I've decided to get some help with getting my laptop set up with Crouton, seeing as I've never done anything like that in my life and I could easily mess up my laptop.
+
+**Thoughts:** I'm really excited about getting set up with new tools for development! I'm looking to get Sublime and Gulp and start working with Sass.
+
+### Day 18: July 16, 2018
+##### Setup day!
+
+**Today's Progress**: Got some help with getting my laptop set up with Crouton. He tried to help last night, but couldn't get it to work, so now it's up to me. Pray for me! Did some schoolwork so that I got my coding time in before we start. Also, I backed up my laptop because you know stuff can happen...
+
+**Thoughts:** Scared. Just scared. I really don't wanna mess this up.
+
+**Update:** It worked! I'm all set up with Ubuntu, Git, Node.js, Sublime, NPM, Sass, autoprefixer, etc. I've been playing with it all and I'm in love. It's all set up so I can run Ubuntu in a window so I can switch back and forth between ChromeOS and Linux ^_^
+
+### Day 19: July 17, 2018
+##### Coursework.
+
+**Today's Progress**: Learning about linting today. 
+
+**Thoughts:** Pretty cool. I can't believe I've gotten this far without all of these tools! I guess you start with an actual saw before you get to use the electric ones, right?
+
