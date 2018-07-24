@@ -52,3 +52,35 @@ Another thought. I noticed Github doesn't count contributions to my forked repos
 
 **Thoughts:** Pretty cool. I can't believe I've gotten this far without all of these tools! I guess you start with an actual saw before you get to use the electric ones, right?
 
+### Day 20: July 18, 2018
+##### Coursework.
+
+**Today's Progress**: Progressing through the coursework towards getting Project 4 done. 
+
+### Day 21: July 19, 2018
+##### Coursework.
+
+**Today's Progress**: Setting up with Jasmine and PhantomJs. Struggling to get it all working. 
+
+### Day 22: July 20, 2018
+##### Coursework.
+
+**Today's Progress**:  I'm struggling. HARD. I'm trying to follow course instructions on how to set up your environment, but I'm on a Chromebook. I've been able to piece it together myself up until now. My current struggles are with trying to get jasmine and phantomjs to work.
+
+**Update**: Got it. I was using the wrong command. _ugh_
+
+### Day 23: July 21, 2018
+##### Coursework.
+
+**Today's Progress**: Finally got jasmine and phantomjs working with Ubuntu yesterday, so I'm moving on! I have a lot to get done, so I will be on here for a WHILE today!
+
+### Day 24: July 22, 2018
+##### Coursework.
+
+**Today's Progress**:  Just more schoolwork. Looking to get a few hours in today ^\_^
+
+### Day 25: July 23, 2018
+##### Coursework.
+
+**Today's Progress**: Working with Jasmine and writing my first test suites. So long, `console.log()`! Haha... yeah.
+
