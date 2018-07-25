@@ -93,3 +93,12 @@ Another thought. I noticed Github doesn't count contributions to my forked repos
 
 **Link to work:** [Feed Reader](https://github.com/Seleah/Feed-Reader-Testing)
 
+### Day 27: July 25, 2018
+##### Going back to Project 4 to fulfill the rubric and using suggestions from my reviewer to improve what I have
+
+**Today's Progress**: Fulfilled the starting criteria for the Cat Clicker, I have to go back to the Feed Reader to make some changes though. I got my review back and there are some changes they recommend, one or two of which would be required for me to pass the rubric.
+
+**Thoughts:** I had more difficulty with the Cat Clicker than I should have... lol It's fine though. One of the problems I was having was that I linked my js in the `<head>` of my html, so it was running too soon.
+
+**Link to work:** [Cat Clicker](https://seleah.github.io/Cat-Clicker/)
+
