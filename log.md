@@ -84,3 +84,12 @@ Another thought. I noticed Github doesn't count contributions to my forked repos
 
 **Today's Progress**: Working with Jasmine and writing my first test suites. So long, `console.log()`! Haha... yeah.
 
+### Day 26: July 24, 2018
+##### Working on Project 4 in the Front End Nanodegree course offered by Udacity through a Grow with Google scholarship
+
+**Today's Progress**: Started AND finished the Feed Reader project!
+
+**Thoughts:** I really enjoyed working with Jasmine and writing test suites more than I thought I would!
+
+**Link to work:** [Feed Reader](https://github.com/Seleah/Feed-Reader-Testing)
+
