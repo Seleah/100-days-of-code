@@ -102,3 +102,40 @@ Another thought. I noticed Github doesn't count contributions to my forked repos
 
 **Link to work:** [Cat Clicker](https://seleah.github.io/Cat-Clicker/)
 
+### Day 28: July 26, 2018
+##### Went out for a day with some friends, time to code!
+
+**Today's Progress**: Just getting some schoolwork done, I'm so tired I don't think I can finish the feed reader right now, so I'll leave that for tomorrow's fresh mind!
+
+**Thoughts:** I am reminded every day of how inexperienced I am and how much there is out there for me to learn. Sometimes it makes me wonder how I could have ever been as confident in myself as I have been up to this point, when I knew less than I do now, considering I have so much to learn?
+
+### Day 29: July 27, 2018
+##### Finishing Project 4
+
+**Today's Progress**: I'm awake early this morning and ready to finish the project. I'm glad I waited until today, I'm looking at my review now and there's no way I would have been able to wrap my head around this.
+
+**Thoughts:** Not too many. Just hoping my project passes this time :)
+
+**Link to work:** [Feed Reader](https://github.com/Seleah/Feed-Reader-Testing)
+
+### Day 30: July 28, 2018
+##### Getting some coursework done. Jud and I will probably head out someplace.
+
+**Today's Progress**: Learning about the difficulty of changing requirements in the development process. This is interesting.
+
+**Thoughts:** Not too many code-related thoughts, just happy to ba able to spend so much time with my best friend (he's next to me on the couch watching TV while I code)
+
+### Day 31: July 29, 2018
+##### Lazy Sunday.
+
+**Today's Progress**: More coursework. The code I'm seeing here in the videos is making me think I've been writing my code wrong all along and it makes me want to go back into all of my projects to fix them.
+
+**Thoughts:** That would be a lot of work... Depends on how embarrassed I decide I am...
+
+### Day 32: July 30, 2018
+##### Coursework. Learning about MVC/MVP/MVVM/MV*
+
+**Today's Progress**: Just doing coursework on this new (to me) way to organize code
+
+**Thoughts:** I like it. It makes a lot of sense.
+
